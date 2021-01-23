@@ -10,8 +10,10 @@ Welcome to blog's documentation!
    :maxdepth: 2
    :caption: Contents
    
-   articles/test
-
+   articles/blogging_rst
+   articles/golang_monorepo
+   articles/gitlab_dynamic_pipelines
+   articles/contribution_nixpkgs
 
 Indices and tables
 ==================

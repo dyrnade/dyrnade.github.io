@@ -21,6 +21,9 @@ syntax-check:
 
 local:
 	cd build/html && $(PYTHON) -m http.server 
+
+prepare:
+	for i in $$(ls build/html/); do echo "Doing for $$i"; rm -rf ./$$i; ln -sf build/html/$$i ./$$i; done
 	
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
