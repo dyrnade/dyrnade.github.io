@@ -14,6 +14,7 @@ Welcome to blog's documentation!
    articles/golang_monorepo
    articles/gitlab_dynamic_pipelines
    articles/contribution_nixpkgs
+   articles/what_if_music_bbx
 
 Indices and tables
 ==================

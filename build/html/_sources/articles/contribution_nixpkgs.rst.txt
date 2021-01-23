@@ -1,4 +1,4 @@
-Easy start for contribution to Nixpkgs
+Easy start for contributing to Nixpkgs
 ======================================
 
 Preparing
